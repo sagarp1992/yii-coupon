@@ -1,0 +1,23 @@
+{
+  "name": "powerkernel/yii-coupon",
+  "description": "Coupon Management",
+  "type": "yii-module",
+  "homepage": "http://groovyweb.firm.in",
+  "keywords": [
+    "yii",
+    "coupon",
+    "api"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sagar ",
+      "email": "sagarpatel8153@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "powerkernel\\yiicoupon\\": "src"
+    }
+  }
+}
